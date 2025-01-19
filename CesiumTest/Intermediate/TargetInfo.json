@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "CesiumTest",
+			"Path": "..\\Source\\CesiumTest.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "CesiumTestEditor",
+			"Path": "..\\Source\\CesiumTestEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

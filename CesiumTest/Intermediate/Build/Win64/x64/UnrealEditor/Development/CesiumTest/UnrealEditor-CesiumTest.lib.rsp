@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-CesiumTest.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\UE_Project\2025_Project04\CesiumTest\Intermediate\Build\Win64\x64\CesiumTestEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
+"D:\UE_Project\2025_Project04\CesiumTest\Intermediate\Build\Win64\x64\UnrealEditor\Development\CesiumTest\CesiumTest.cpp.obj"
+"D:\UE_Project\2025_Project04\CesiumTest\Intermediate\Build\Win64\x64\UnrealEditor\Development\CesiumTest\Default.rc2.res"
+/OUT:"D:\UE_Project\2025_Project04\CesiumTest\Intermediate\Build\Win64\x64\UnrealEditor\Development\CesiumTest\UnrealEditor-CesiumTest.lib"

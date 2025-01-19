@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\ue_project\\2025_project04\\cesiumtest\\source\\cesiumtest\\cesiumtest.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\ue_project\\2025_project04\\cesiumtest\\intermediate\\build\\win64\\x64\\cesiumtesteditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\ue_project\\2025_project04\\cesiumtest\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\cesiumtest\\definitions.cesiumtest.h",
+            "d:\\ue_project\\2025_project04\\cesiumtest\\source\\cesiumtest\\cesiumtest.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

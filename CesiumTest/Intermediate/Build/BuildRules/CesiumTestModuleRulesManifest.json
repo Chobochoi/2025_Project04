@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\UE_Project\\2025_Project04\\CesiumTest\\Source\\CesiumTest\\CesiumTest.Build.cs",
+		"D:\\UE_Project\\2025_Project04\\CesiumTest\\Source\\CesiumTest.Target.cs",
+		"D:\\UE_Project\\2025_Project04\\CesiumTest\\Source\\CesiumTestEditor.Target.cs"
+	],
+	"EngineVersion": "5.4.4"
+}
